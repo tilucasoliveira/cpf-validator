@@ -1,0 +1,29 @@
+# Python
+*.pyc
+__pycache__/
+
+# Environment
+.env
+venv/
+ENV/
+env/
+venv.bak/
+venv.bak/
+
+# Azure Functions
+local.settings.json
+
+# Database
+*.db
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
